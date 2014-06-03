@@ -1,0 +1,22 @@
+.clear {
+	clear:both;
+}
+header {
+	background:black;
+	padding:5px;
+}
+header p {
+	color:white;
+}
+header ul {
+	float:right;
+}
+header ul li {
+	display:inline;margin-right:20px;
+}
+header ul li a {
+	color:white;
+}
+header ul li a:hover {
+	color:white;
+}
