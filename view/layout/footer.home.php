@@ -10,27 +10,10 @@
 	</footer>
 	<?php } ?>
 
-	 <script src="assets/jquery/jquery-1.10.2.js"></script>
-  <script type="text/javascript" src="assets/js/bootstrap.min.js"></script>
-  <script type="text/javascript" src="assets/js/jquery.pageslide.min.js"></script>
+	<script src="assets/jquery/jquery-1.10.2.min.js"></script>
+ 	<script type="text/javascript" src="assets/js/bootstrap.min.js"></script>
  	<script type="text/javascript" src="assets/ajax/send_mail.js"></script>
-<script>
+ 	<script src="assets/jquery/home.effect.js"></script>
 
-    $('#alertform').fadeOut();
-	$('#closealert').on('click',function(){
-		$('#alertform').fadeOut();
-	});
-	$('.second').mouseover(function(){
-		$('#navigation').slideDown();	
-		
-		
-	});
-	$('#navigation').mouseleave(function(){
-		$('#navigation').slideUp();
-	});
-	 
-
-	
-</script>
 </body>
 </html>

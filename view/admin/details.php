@@ -1,8 +1,8 @@
 
-Details de la moto  
+<p><?php echo $_GET['action']; ?></p> 
 
 <!-- Button trigger modal -->
-<button class="btn btn-primary" data-toggle="modal" data-target="#myModal">
+<button class="btn btn-default btn-lg" data-toggle="modal" data-target="#myModal">
   Ajouter un detail
 </button>
 

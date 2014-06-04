@@ -1,0 +1,9 @@
+$('#second_step_modele').slideToggle();
+	$('#next_step').on('click',function(){
+		$('#first_step_modele').slideToggle();
+		$('#second_step_modele').slideToggle();
+	});
+	$('#previous_step').on('click',function(){
+		$('#first_step_modele').slideToggle();
+		$('#second_step_modele').slideToggle();
+	});
