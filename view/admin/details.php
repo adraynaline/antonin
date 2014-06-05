@@ -20,7 +20,7 @@
       
        		
        		Description<br/>
-       		<input type="text" name="description" id="description"><br/>
+       		<input type="text" class="form-control" name="description" id="description"><br/>
        		Image<br/>
        		<input type="file" name="fileUpload1" id="fileUpload1" class="fileUpload bt vert" /><br/>
             <div id="previews"></div>
